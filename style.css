@@ -78,14 +78,14 @@ ul {
     margin: 0;
     padding: 0;
 }
-.fa-check {
-    font-size: 20px;
-    color: rgb(0, 255, 13);
+.failure-list img {
+    width: 20px
 }
 .failure-list {
     list-style: none;
     padding-top: 16px;
 }
+
 
 /* plan section */
 .plan-section {
