@@ -159,3 +159,10 @@ form input {
     background: transparent;
     color: white;
 }
+.social-icons {
+    margin-top: 24px;
+}
+.social-icons img {
+    padding-right: 10px;
+    width: 46x;
+}
