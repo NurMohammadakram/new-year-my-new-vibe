@@ -108,10 +108,11 @@ ul {
     text-align: center;
 }
 .info .icon {
-    width: 40px;
+    width: 60px;
 }
 .info .title {
     margin-top: 24px;
+    margin-bottom: 16px;
     font-size: 25px;
     font-weight: 700;
 }
@@ -164,5 +165,5 @@ form input {
 }
 .social-icons img {
     padding-right: 10px;
-    width: 46x;
+    width: 40px;
 }
