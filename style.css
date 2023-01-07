@@ -20,7 +20,7 @@
 /* header section styles */
 
 .header {
-    background-image: url('./new-year-new-me/images/banner/banner1.png');
+    background-image: url('./images/banner/banner1.png');
     height: 650px;
     background-position: center;
     background-size: cover;
@@ -119,7 +119,7 @@ ul {
     height: 300px;
     margin: 130px 0;
     padding: auto 60px;
-    background-image: url('/new-year-new-me/images/watch.png'), url('/new-year-new-me/images/gradient3.png');
+    background-image: url('/images/watch.png'), url('/images/gradient3.png');
     background-blend-mode: multiply;
     
 }
