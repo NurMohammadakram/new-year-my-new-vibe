@@ -120,7 +120,7 @@ ul {
     height: 300px;
     margin: 130px 0;
     padding: auto 60px;
-    background-image: url('/images/watch.png'), url('/images/gradient3.png');
+    background-image: url('./images/watch.png'), url('./images/gradient3.png');
     background-blend-mode: multiply;
     
 }
